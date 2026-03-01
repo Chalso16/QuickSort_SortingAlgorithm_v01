@@ -1,0 +1,1 @@
+Primer ejercicio de un algoritmo de orden Quick sort. Implementado mediante el metodo de particion Naive de orden O(n), no es el metodo mas eficiente ya que usamos una copia y luego la actualizamos al elemento original, pivote en la posicion 0. 
